@@ -7,3 +7,7 @@ This notebook serves to reinforce the material learned in the Intro to Python I/
 
 Python Challenger
 This notebook serves to provide students who want to go above and beyond the required python knowledge needed for Dr. Chang's AI course. Only the students who are extremely comfortable with lists, dictionaries, classes and writing methods should attempt this. It's advanced programming that provides alternative approaches to the traditional way of writing loops that will allow the programmer to write way less code and be less prone to mistakes.
+
+python_challenger.ipynb - Introduces students to lambda functions, recursion
+
+python_challenger_problems.ipynb - Challenging problems involving lambda and recursion
